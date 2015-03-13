@@ -1,10 +1,10 @@
 
 table {
 	border-collapse: collapse;
-	font-family: Arial, Helvetica, sans-serif;
 }
 
 table, td, th {
+	font-family: Arial, Helvetica, sans-serif;
 	border: 1px solid #D1BBFF;
 	padding-left: 5px;
 	padding-right: 5px;
