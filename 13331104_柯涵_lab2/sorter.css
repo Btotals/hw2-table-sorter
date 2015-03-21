@@ -1,0 +1,18 @@
+table {
+	border-collapse:collapse;
+	border:none;
+}
+
+td {
+	border:solid #000 1px;
+}
+
+th {
+	border:solid #000 1px;
+	background-color: blue;
+	color:white;
+}
+
+tr.alternate {
+	background-color: rgb(221, 221, 221);
+}
